@@ -11,9 +11,6 @@ print "\n"
         print ' '
     end
         print '*'
-    (n-i).times do |i|
-        print ' '
-    end
         print "\n"
 end
 
