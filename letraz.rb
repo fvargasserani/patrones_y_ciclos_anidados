@@ -6,7 +6,6 @@ end
 print "\n"
 
 #Parte intermedia
-n = ARGV[0].to_i
 (n-2).times do |i|
     (n-i-2).times do |i|
         print ' '
